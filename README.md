@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [Post-Ups](https://post-ups.herokuapp.com)!
 - 🌱 I’m currently exploring Docker 🐳
 - ⚡ Check out my other Projects - [Art-Board](http://rahul-art-board.herokuapp.com/), [Chat-Room](https://rahul-chat-room.herokuapp.com/)
-- ⚡ Check out my [Repositories](https://github.com/RahulPandya25?tab=repositories)
+- ⚡ Check out my [GitHub Repos](https://github.com/RahulPandya25?tab=repositories)
 - 📫 Connect with me on [LinkedIn][linkedin] or [E-mail][email]
 
 ### Languages and Tools:
